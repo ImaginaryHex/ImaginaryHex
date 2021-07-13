@@ -1,4 +1,4 @@
 ### ImaginaryHex
 
-Hello 👋 I'm ImaginaryHex. I don't have a lot to say here. I mostly work in NodeJS.
+Hello 👋 I'm ImaginaryHex. I don't have a lot to say here. I mostly work in NodeJS.<br>
 Pronouns: she/her
